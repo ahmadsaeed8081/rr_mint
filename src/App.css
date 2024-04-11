@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.primary-btn{
+  @apply  bg-[#EEF200] text-black text-[14px]  font-bold px-3 md:px-6 py-3 rounded-md
+}
